@@ -1,8 +1,8 @@
 # Hello, people 👋, I'm a blockchain full stack developer.
 ### Welcome to my github profile :beach_umbrella:
-[![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=a17&hide=stars&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BitFancy&hide=stars&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a17&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitFancy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My work
 * DeFi protocols development
