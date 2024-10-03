@@ -7,6 +7,7 @@
 - 🤔 Seeking help with: Smart contract development and security audits
 - 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
 - ⚡ Fun fact: Photography enthusiast, avid gamer
+## 🌐 Connect with me:  
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername) 
 <table width="100%">
   <tr>
