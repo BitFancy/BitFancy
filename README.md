@@ -11,9 +11,9 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 <p align="center">
-    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
         <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-        <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
     </a>
+        <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
