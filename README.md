@@ -44,7 +44,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&theme=algolia />
+          <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&theme=algolia" />
         </a>
       </p>
     </td>
