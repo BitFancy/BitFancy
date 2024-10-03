@@ -14,7 +14,7 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/BitFancy">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
         </a>
       </p>
@@ -22,7 +22,7 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/BitFancy">
           <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=chartreuse-dark" alt="Streak Stats" />
         </a>
       </p>
@@ -40,7 +40,7 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/BitFancy">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=chartreuse-dark&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
