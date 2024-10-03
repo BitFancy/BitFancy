@@ -21,7 +21,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=chartreuse-dark" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=algolia" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -31,7 +31,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy/Solana-Lanchpad">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=BitFancy&repo=Solana-Lanchpad&theme=chartreuse-dark&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=BitFancy&repo=Solana-Lanchpad&theme=algolia&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
@@ -39,7 +39,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=chartreuse-dark&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=algolia&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
