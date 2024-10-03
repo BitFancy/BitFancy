@@ -11,7 +11,5 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
 - ⚡ Fun fact: I love taking photos, playing video games.
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BitFancy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
