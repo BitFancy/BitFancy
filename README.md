@@ -44,7 +44,7 @@
       <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitFancy&theme=algolia&layout=compact" alt="jaypavasiya" />
         </a>
       </p>
     </td>
