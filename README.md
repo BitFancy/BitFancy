@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently deepening my expertise in Blockchain Development, Smart Contracts, and Decentralized Applications (dApps)
-- 👯 I’m eager to collaborate on Blockchain and Web Development projects that push the boundaries of innovation.
-- 🤔 I’m looking for insights and support on advanced Blockchain concepts and integration techniques.
-- 🥅 2021 Goals: To achieve mastery in Blockchain technologies and contribute to impactful projects.
-- ⚡ Fun fact: I have a passion for photography and enjoy immersive gaming experiences.
+- 🌱 Currently learning: Rust, Golang, FunC, Solana, Ton, Web3.js, IPFS
+- 👯 Looking to collaborate on: DeFi, NFTs, dApps, and Telegram MiniApps
+- 🤔 Seeking help with: Smart contract development and security audits
+- 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
+- ⚡ Fun fact: Photography enthusiast, avid gamer
 <table width="100%">
   <tr>
     <td width="50%">
