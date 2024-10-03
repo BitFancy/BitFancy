@@ -12,6 +12,28 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/dQJ9vNfF) - @bitbanana717
 - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.a55bfc43620cc2f3?chat) - live:.cid.a55bfc43620cc2f3
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
+  <div style="display: flex; flex-direction: column; align-items: center;">  
+  <p>  
+    <a href="https://t.me/chain_crafts">  
+      <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>   
+    </a> - @chain_crafts  
+  </p>  
+  <p>  
+    <a href="https://discord.gg/dQJ9vNfF">  
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"/>   
+    </a> - @bitbanana717  
+  </p>  
+  <p>  
+    <a href="skype:live:.cid.a55bfc43620cc2f3?chat">  
+      <img src="https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white" alt="Skype"/>   
+    </a> - live:.cid.a55bfc43620cc2f3  
+  </p>  
+  <p>  
+    <a href="mailto:bitbanana717@gmail.com">  
+      <img src="https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email"/>   
+    </a>  
+  </p>  
+</div>
 <table width="100%">
   <tr>
     <td width="50%">
