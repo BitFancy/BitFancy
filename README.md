@@ -12,7 +12,7 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/JoykishanSharma">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&count_private=true&include_all_commits=true&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
