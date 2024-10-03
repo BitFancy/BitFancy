@@ -8,7 +8,9 @@
 - 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 ## 🌐 Connect with me:  
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername) 
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourinvitecode)
+- [Message me on Skype](skype:yourusername?chat)
 <table width="100%">
   <tr>
     <td width="50%">
