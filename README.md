@@ -32,8 +32,8 @@ I am currently pursuing my Bachelors in computer science from [Metropolitan Univ
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=chartreuse-dark&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/BitFancy/Solana-Lanchpad">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=BitFancy&repo=Solana-Lanchpad&theme=chartreuse-dark&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
