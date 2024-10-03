@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Blockchain Engineer - <a href="https://t.me/chain_crafts" target="_blank">Telegram</a></h1>
+<a href="https://t.me/chain_crafts" target="_blank"><h1 align="center">Hi 👋, I'm a Blockchain Engineer</h1></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
