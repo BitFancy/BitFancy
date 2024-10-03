@@ -44,7 +44,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=algolia&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img src ="https://activity-graph.herokuapp.com/graph?username=jaivardhan-bhola&hide_border=true&theme=algolia />
         </a>
       </p>
     </td>
