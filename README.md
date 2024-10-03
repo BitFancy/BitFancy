@@ -13,7 +13,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=BitFancy&count_private=true&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
         </a>
       </p>
     </td>
