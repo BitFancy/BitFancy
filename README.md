@@ -8,9 +8,9 @@
 - 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 ## 🌐 Connect with me:  
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/chain_crafts) - @chain_crafts
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/dQJ9vNfF) - @bitbanana717
-- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.a55bfc43620cc2f3?chat) - live:.cid.a55bfc43620cc2f3
+//- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/chain_crafts) - @chain_crafts
+//- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/dQJ9vNfF) - @bitbanana717
+//- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.a55bfc43620cc2f3?chat) - live:.cid.a55bfc43620cc2f3
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
 <table width="100%">
   <tr>
