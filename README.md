@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://t.me/chain_crafts" target="_blank">Hi 👋, I'm a Blockchain Engineer 👈🏻</a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BitFancy" alt="HridoyHazard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a17" alt="HridoyHazard" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kelvin-1013" alt="HridoyHazard" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
