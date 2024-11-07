@@ -9,10 +9,6 @@
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 ## 🌐 Connect with me:  
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
-- [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitfancy&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
-- [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=a17&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
-- [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelvin-1013&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
-- [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliver96118&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
 <table width="100%">
   <tr>
     <td width="50%">
@@ -20,10 +16,6 @@
       <p align="center">
         <a href="https://github.com/BitFancy">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bitfancy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kelvin-1013&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oliver96118&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
