@@ -10,6 +10,7 @@
 ## 🌐 Connect with me:  
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
 - [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitfancy&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
+- [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=a17&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
 <table width="100%">
   <tr>
     <td width="50%">
