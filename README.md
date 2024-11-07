@@ -12,6 +12,7 @@
 - [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitfancy&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
 - [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=a17&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
 - [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelvin-1013&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
+- [![Alien Deployer's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliver96118&hide=stars&count_private=true&theme=blue-green)](https://github.com/Kelvin-1013/github-readme-stats)
 <table width="100%">
   <tr>
     <td width="50%">
