@@ -16,6 +16,7 @@
       <p align="center">
         <a href="https://github.com/BitFancy">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bitfancy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
