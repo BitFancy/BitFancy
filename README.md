@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 ## 🌐 Connect with me:  
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/dQJ9vNfF)@bitbanana717
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](@bitbanana717)
 <table width="100%">
   <tr>
     <td width="50%">
