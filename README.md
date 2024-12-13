@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 Currently learning: Rust, Golang, FunC, Solana, Ton, Web3.js, IPFS
+- 🌱 Currently learning: Rust, Golang, FunC, Solana, Ton, Sui, Move, IPFS
 - 👯 Looking to collaborate on: DeFi, NFTs, dApps, and Telegram MiniApps
 - 🤔 Seeking help with: Smart contract development and security audits
 - 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
