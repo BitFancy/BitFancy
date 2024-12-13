@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://t.me/softlight1012" target="_blank">Hi 👋, I'm a Blockchain Engineer 👈🏻</a></h1>
+<h1 align="center"><a href="https://t.me/softlight1012" target="_blank">Hi 👋, I'm a Blockchain FullStack Engineer 👈🏻</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
