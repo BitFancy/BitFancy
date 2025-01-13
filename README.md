@@ -12,7 +12,7 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](@bitbanana717) @bitbanana717
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" collspan="2">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
@@ -20,14 +20,14 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
           <img align="center" src="https://streak-stats.demolab.com?user=BitFancy&theme=algolia" alt="Streak Stats" />
         </a>
       </p>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td width="50%">
