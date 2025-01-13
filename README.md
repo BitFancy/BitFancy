@@ -12,22 +12,14 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](@bitbanana717) @bitbanana717
 <table width="100%">
   <tr>
-    <td width="50%" collspan="2">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/BitFancy">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </a>
-      </p>
-    </td>
-<!--     <td width="50%">
+    <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img align="center" src="https://streak-stats.demolab.com?user=BitFancy&theme=algolia" alt="Streak Stats" />
+          <img align="left" src="https://github-readme-stats.vercel.app/api?username=bitfancy&show_icons=true&count_private=true&theme=algolia" />
         </a>
       </p>
-    </td> -->
+    </td>
   </tr>
   <tr>
     <td width="50%">
