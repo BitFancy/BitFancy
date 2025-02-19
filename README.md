@@ -7,9 +7,7 @@
 - 🤔 Seeking help with: Smart contract development and security audits
 - 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
 - ⚡ Fun fact: Photography enthusiast, avid gamer
-## 🌐 Connect with me:  
-- [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](@bitbanana717) @bitbanana717
+
 <table width="100%">
   <tr>
     <td width="50%">
