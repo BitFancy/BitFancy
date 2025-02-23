@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 
   ## 🌐 Connect with me:
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/bitfancy) - @bitfancy
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/bitfancy) @bitfancy
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](bitbanana717@gmail.com)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](@bitbanana717) @bitbanana717
 
