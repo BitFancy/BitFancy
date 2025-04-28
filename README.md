@@ -5,7 +5,7 @@
 - 🌱 Currently learning: Rust, Sui, Move, Golang, FunC, Solana, Ton, IPFS
 - 👯 Looking to collaborate on: DeFi, NFTs, dApps, and Telegram MiniApps
 - 🤔 Seeking help with: Smart contract development and security audits
-- 🥅 2024 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
+- 🥅 2025 Goals: Master Layer 2 solutions, cross-chain interoperability, Sniper Bot
 - ⚡ Fun fact: Photography enthusiast, avid gamer
 
   ## 🌐 Connect with me:
