@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://t.me/bitfancy" target="_blank">Hi 👋, I'm a Blockchain FullStack Engineer 👈🏻</a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitfancy" alt="BitBanana" /> </p>
 
 - 🌱 Currently learning: Rust, Sui, Move, Golang, FunC, Solana, Ton, IPFS
 - 👯 Looking to collaborate on: DeFi, NFTs, dApps, and Telegram MiniApps
